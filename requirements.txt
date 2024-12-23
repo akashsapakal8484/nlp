@@ -1,0 +1,17 @@
+tensorflow==2.17.0
+pandas
+scikit-learn
+streamlit
+numpy
+protobuf==3.20.3
+grpcio==1.59.0
+six==1.12.0
+termcolor==1.1.0
+astunparse==1.6.3
+opt_einsum==3.3.0
+nltk
+
+
+#pip install configparser==3.5.0
+#pip install opt_einsum --upgrade
+
